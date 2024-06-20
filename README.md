@@ -63,3 +63,8 @@
    - Thrust provides high-level algorithms (similar to STL) for GPU programming.
    - It simplifies common tasks like sorting, reduction, and scanning.
 
+
+### Follow The Guide 
+
+- [x] [Chapter 1: Basics of CUDA Programming](Chapter1-Basics)
+
