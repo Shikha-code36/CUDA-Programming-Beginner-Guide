@@ -67,4 +67,5 @@
 ### Follow The Guide 
 
 - [x] [Chapter 1: Basics of CUDA Programming](Chapter1-Basics)
+- [x] [Chapter 2: Simple CUDA Vector Addition](Chapter2-EasyCudaProject)
 
