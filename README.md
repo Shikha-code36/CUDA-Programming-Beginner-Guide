@@ -1,4 +1,4 @@
-# CUDA-Programming-Beginner-Guide
+# CUDA Programming Beginner's Guide
 
 **Introduction to CUDA Programming**.
 
