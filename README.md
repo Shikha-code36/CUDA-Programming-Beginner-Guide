@@ -70,3 +70,26 @@
 - [x] [Chapter 2: Basic Syntax](Chapter2-BasicSyntax)
 - [x] [Chapter 3: Simple CUDA Vector Addition](Chapter3-EasyCudaProject)
 - [x] [Chapter 4: Intermediate Algorithms](Chapter4-IntermediateAlgo)
+
+
+## Going Beyond: Advanced CUDA
+
+By following this guide you have covered the basics of CUDA programming! Now, you can explore more advanced areas:
+
+#### 1. Deep Learning with CUDA
+
+- **TensorFlow and PyTorch**: Accelerate neural network training using CUDA. Dive into deep learning frameworks and build your own models.
+
+- **cuDNN**: Install and use the CUDA Deep Neural Network Library (cuDNN) for optimized neural network operations.
+
+#### 2. Parallelize Your Projects
+
+Think about existing projects or problems you'd like to solve. Can you parallelize parts of them using CUDA? Whether it's simulations, physics modeling, or financial calculations, GPUs can supercharge your computations.
+
+## Show Your Support
+
+If you found this guide helpful, please consider starring the repository to show your support. Your star helps increase visibility and encourages more learners to discover and benefit from these educational resources.
+
+## License
+
+This project is released under the [MIT License](LICENSE).
