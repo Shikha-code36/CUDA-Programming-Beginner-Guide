@@ -50,7 +50,7 @@ Let's go through the code step by step:
      ```
      nvcc vector_addition.cu -o vector_addition
      ```
-    ![Compile Code Image](https://github.com/Shikha-code36/CUDA-Programming-Beginner-Guide/blob/main/Chapter2-EasyCudaProject/part1.png)
+    ![Compile Code Image](https://github.com/Shikha-code36/CUDA-Programming-Beginner-Guide/blob/main/Chapter3-EasyCudaProject/part1.png)
 
 2. **Run the Executable**:
    - Execute the compiled binary:
@@ -59,5 +59,5 @@ Let's go through the code step by step:
      ```
    - You'll see the result of vector addition printed to the console.
 
-   ![Executable Code Image](https://github.com/Shikha-code36/CUDA-Programming-Beginner-Guide/blob/main/Chapter2-EasyCudaProject/part2.png)
+   ![Executable Code Image](https://github.com/Shikha-code36/CUDA-Programming-Beginner-Guide/blob/main/Chapter3-EasyCudaProject/part2.png)
 
