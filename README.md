@@ -69,4 +69,4 @@
 - [x] [Chapter 1: Basics of CUDA Programming](Chapter1-Basics)
 - [x] [Chapter 2: Basic Syntax](Chapter2-BasicSyntax)
 - [x] [Chapter 3: Simple CUDA Vector Addition](Chapter3-EasyCudaProject)
-
+- [x] [Chapter 4: Intermediate Algorithms](Chapter4-IntermediateAlgo)
