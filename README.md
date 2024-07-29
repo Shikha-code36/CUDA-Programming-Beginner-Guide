@@ -70,7 +70,7 @@
 - [x] [Chapter 2: Basic Syntax](Chapter2-BasicSyntax)
 - [x] [Chapter 3: Simple CUDA Vector Addition](Chapter3-EasyCudaProject)
 - [x] [Chapter 4: Intermediate Algorithms](Chapter4-IntermediateAlgo)
-
+- [x] [Chapter 5: Debugging and Profiling](Chapter5-DebuggingandProfiling)
 
 ## Going Beyond: Advanced CUDA
 
